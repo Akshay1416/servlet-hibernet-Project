@@ -1,0 +1,156 @@
+2024-10-02 09:03:53,641 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-02 09:04:21,989 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.qsp:student-registration-app:0.0.1-SNAPSHOT @ C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\pom.xml.
+2024-10-02 09:04:21,989 [Worker-13: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.qsp:student-registration-app:0.0.1-SNAPSHOT @ C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\pom.xml.
+2024-10-02 09:04:23,191 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2.pom
+2024-10-02 09:04:23,252 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2.pom
+2024-10-02 09:04:23,426 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2.jar
+2024-10-02 09:04:24,013 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2.jar
+2024-10-02 09:04:29,698 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2-sources.jar
+2024-10-02 09:04:29,705 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-02 09:04:29,705 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-02 09:04:30,252 [Worker-16: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/jstl/1.2/jstl-1.2-sources.jar
+2024-10-02 09:04:30,263 [Worker-16: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.servlet:jstl:1.2
+2024-10-02 09:04:30,381 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Changes detected - recompiling the module!
+2024-10-02 09:04:30,392 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Compiling 7 source files to C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\target\classes
+2024-10-02 09:04:31,068 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - -------------------------------------------------------------
+2024-10-02 09:04:31,068 [Worker-6: Building] ERROR o.e.m.c.i.embedder.EclipseLogger - COMPILATION ERROR : 
+2024-10-02 09:04:31,070 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - -------------------------------------------------------------
+2024-10-02 09:04:31,070 [Worker-6: Building] ERROR o.e.m.c.i.embedder.EclipseLogger - Source option 7 is no longer supported. Use 8 or later.
+2024-10-02 09:04:31,071 [Worker-6: Building] ERROR o.e.m.c.i.embedder.EclipseLogger - Target option 7 is no longer supported. Use 8 or later.
+2024-10-02 09:04:31,072 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - 2 errors 
+2024-10-02 09:04:31,072 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - -------------------------------------------------------------
+2024-10-02 09:04:31,079 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-02 09:04:31,080 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-02 09:04:33,027 [Worker-22: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.qsp:student-registration-app:0.0.1-SNAPSHOT @ C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\pom.xml.
+2024-10-02 09:30:29,691 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-02 09:30:29,692 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-02 09:30:29,697 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-02 09:30:29,697 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-02 09:30:50,592 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-02 09:30:50,593 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-02 09:30:50,596 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-02 09:30:50,596 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-02 09:31:00,296 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-02 09:31:00,296 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-02 09:31:00,298 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-02 09:31:00,299 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-02 09:31:10,104 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-02 09:31:10,104 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-02 09:31:10,106 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-02 09:31:10,107 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-02 09:42:48,695 [Worker-11: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-02 12:20:04,082 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-03 08:48:04,341 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-10-03 08:52:53,557 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 08:52:53,572 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-03 08:52:53,576 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 08:52:53,576 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-03 08:58:51,856 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 08:58:51,857 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-03 08:58:51,859 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 08:58:51,859 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-03 08:59:09,757 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 08:59:09,758 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-03 08:59:09,760 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 08:59:09,760 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-03 09:01:38,938 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:01:38,940 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-03 09:01:38,942 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:01:38,943 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-03 09:06:43,332 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:06:43,333 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-03 09:06:43,336 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:06:43,336 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-03 09:10:08,762 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:10:08,762 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-03 09:10:08,765 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:10:08,765 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-03 09:10:38,857 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:10:38,857 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-03 09:10:38,860 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:10:38,860 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-03 09:12:14,042 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:12:14,043 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-03 09:12:14,046 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:12:14,046 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-03 09:13:20,056 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:13:20,056 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-03 09:13:20,059 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:13:20,060 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-03 09:13:51,728 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:13:51,728 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-03 09:13:51,730 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:13:51,730 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-03 09:14:17,303 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:14:17,303 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-03 09:14:17,305 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:14:17,305 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-03 09:14:24,571 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:14:24,571 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-03 09:14:24,575 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:14:24,575 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-03 09:14:51,655 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:14:51,655 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-03 09:14:51,657 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:14:51,657 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-03 09:15:21,914 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:15:21,914 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-03 09:15:21,917 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:15:21,917 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-03 09:16:10,690 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:16:10,691 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-03 09:16:10,692 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:16:10,693 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-03 09:18:10,937 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:18:10,938 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-03 09:18:10,940 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:18:10,940 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-03 09:18:25,414 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:18:25,414 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-03 09:18:25,417 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:18:25,418 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-03 09:19:02,767 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:19:02,768 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-03 09:19:02,770 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:19:02,770 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-03 09:20:20,013 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:20:20,014 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-03 09:20:20,016 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:20:20,016 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-03 09:20:52,717 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:20:52,717 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-03 09:20:52,721 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:20:52,721 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-03 09:21:50,883 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:21:50,884 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-03 09:21:50,886 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:21:50,886 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-03 09:23:18,201 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:23:18,202 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-03 09:23:18,206 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:23:18,206 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-03 09:24:06,314 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:24:06,314 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-03 09:24:06,316 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:24:06,317 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-03 09:24:48,073 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:24:48,073 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-03 09:24:48,076 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:24:48,076 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-03 09:26:40,578 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:26:40,578 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-03 09:26:40,581 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:26:40,581 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-03 09:26:54,872 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:26:54,872 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-03 09:26:54,875 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:26:54,875 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-03 09:27:42,502 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:27:42,503 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-03 09:27:42,507 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-03 09:27:42,507 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
+2024-10-04 09:30:28,537 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-04 09:30:35,478 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-04 09:30:35,478 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-04 09:30:35,486 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-04 09:30:35,486 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources

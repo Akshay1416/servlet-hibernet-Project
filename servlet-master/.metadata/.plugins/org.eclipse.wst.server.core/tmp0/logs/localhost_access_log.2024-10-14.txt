@@ -1,0 +1,5 @@
+127.0.0.1 - - [14/Oct/2024:19:35:30 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/Oct/2024:19:35:44 +0530] "GET /student-registration-app/ HTTP/1.1" 200 1849
+0:0:0:0:0:0:0:1 - - [14/Oct/2024:19:35:44 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [14/Oct/2024:19:35:49 +0530] "GET /student-registration-app/getAll HTTP/1.1" 200 3455
+0:0:0:0:0:0:0:1 - - [14/Oct/2024:19:35:57 +0530] "GET /student-registration-app/register.jsp HTTP/1.1" 200 3977

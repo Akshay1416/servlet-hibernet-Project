@@ -1,0 +1,6 @@
+2024-10-14 19:31:32,431 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-10-14 19:32:10,613 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.qsp:student-registration-app:0.0.1-SNAPSHOT @ C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\pom.xml.
+2024-10-14 19:32:14,533 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-14 19:32:14,533 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\main\resources
+2024-10-14 19:32:14,541 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-10-14 19:32:14,541 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\93726\Downloads\servlet-master\servlet-master\student-registration-app\src\test\resources
